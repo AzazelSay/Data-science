@@ -1,3 +1,12 @@
+# DATA SCIENCE
+
+**An open-source repository for Data Science enthusiasts to explore, learn, and apply techniques to address real-world challenges.**
+
+A streamlined guide to kickstart your Data Science journey. Follow the outlined steps to answer the questions: "What is Data Science, and what should I learn to master it?"
+
+
+
+
 This folder contains the projects I completed during the Machine Learning Open Course. 
 Throughout the course, we explored various topics and applied them through practical tasks. 
 
