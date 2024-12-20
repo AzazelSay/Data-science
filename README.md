@@ -1,5 +1,3 @@
-<div align="center"><img src="./assets/head.jpg"></div>
-
 # AWESOME DATA SCIENCE
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
@@ -8,11 +6,6 @@
 
 This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science and what should I study to learn Data Science?"
 
-## Sponsors
-
-| Sponsor | Pitch |
-| --- | --- |
-| --- | Be the first to sponsor! `github@academic.io` |
 
 
 
@@ -27,7 +20,6 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
   - [Free Courses](#free-courses)
   - [Massively Open Online Courses](#moocs)
   - [Intensive Programs](#intensive-programs)
-  - [Colleges](#colleges)
 - [The Data Science Toolbox](#the-data-science-toolbox)
   - [Algorithms](#algorithms)
     - [Supervised Learning](#supervised-learning)
@@ -53,8 +45,6 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
   - [Podcasts](#podcasts)
   - [YouTube Videos & Channels](#youtube-videos--channels)
 - [Socialize](#socialize)
-  - [Facebook Accounts](#facebook-accounts)
-  - [Twitter Accounts](#twitter-accounts)
   - [Telegram Channels](#telegram-channels)
   - [Slack Communities](#slack-communities)
   - [GitHub Groups](#github-groups)
@@ -62,12 +52,9 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 - [Fun](#fun)
   - [Infographics](#infographics)
   - [Datasets](#datasets)
-  - [Comics](#comics)
 - [Other Awesome Lists](#other-awesome-lists)
-  - [Hobby](#hobby)
 
 ## What is Data Science?
-**[`^        back to top        ^`](#awesome-data-science)**
 
 Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](https://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **Data Science** and hundreds of answers from experts.
 
@@ -85,7 +72,6 @@ Data Science is one of the hottest topics on the Computer and Internet farmland 
 |[Navigating Your Path to Becoming a Data Scientist](https://www.appliedaicourse.com/blog/how-to-become-a-data-scientist/)|_Data science is one of the most in-demand careers today. With businesses increasingly relying on data to make decisions, the need for skilled data scientists has grown rapidly. Whether it’s tech companies, healthcare organizations, or even government institutions, data scientists play a crucial role in turning raw data into valuable insights. But how do you become a data scientist, especially if you’re just starting out? _|
 
 ## Where do I Start?
-**[`^        back to top        ^`](#awesome-data-science)**
 
 While not strictly necessary, having a programming language is a crucial skill to be effective as a data scientist. Currently, the most popular language is _Python_, closely followed by _R_. Python is a general-purpose scripting language that sees applications in a wide variety of fields. R is a domain-specific language for statistics, which contains a lot of common statistics tools out of the box.
 
@@ -96,25 +82,21 @@ Unlike R, Python was not built from the ground up with data science in mind, but
  When embarking on your journey to becoming a data scientist, the choice of language isn't particularly important, and both Python and R have their pros and cons. Pick a language you like, and check out one of the [Free courses](#free-courses) we've listed below!
  
 ## Real World
-**[`^        back to top        ^`](#awesome-data-science)**
 
 Data science is a powerful tool that is utilized in various fields to solve real-world problems by extracting insights and patterns from complex data.
 
 ### Disaster
-**[`^        back to top        ^`](#awesome-data-science)**
 
 - [deprem-ml](https://huggingface.co/deprem-ml) [AYA: Açık Yazılım Ağı](https://linktr.ee/acikyazilimagi) (+25k developers) is trying to help disaster response using artificial intelligence. Everything is open-sourced [afet.org](https://afet.org). 
 
  
 
 ## Training Resources
-**[`^        back to top        ^`](#awesome-data-science)**
 
 How do you learn data science? By doing data science, of course! Okay, okay - that might not be particularly helpful when you're first starting out. In this section, we've listed some learning resources, in rough order from least to greatest commitment - [Tutorials](#tutorials), [Massively Open Online Courses (MOOCs)](#moocs), [Intensive Programs](#intensive-programs), and [Colleges](#colleges).
 
 
 ### Tutorials
-**[`^        back to top        ^`](#awesome-data-science)**
 
 - [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
 - [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
@@ -137,7 +119,6 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Top 100+ Data Science Interview Questions and Answers](https://www.appliedaicourse.com/blog/data-science-interview-questions/)
 
 ### Free Courses
-**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 - [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
@@ -160,7 +141,6 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 
   
 ### MOOC's
-**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Coursera Introduction to Data Science](https://www.coursera.org/specializations/data-science)
 - [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/jhu-data-science)
@@ -205,38 +185,15 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 
 
 ### Intensive Programs
-**[`^        back to top        ^`](#awesome-data-science)**
 
 - [S2DS](https://www.s2ds.org/)
 
 
-### Colleges
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
-- [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
-- [Data Science Degree @ UVA](https://datascience.virginia.edu/)
-- [Data Science Degree @ Wisconsin](https://datasciencedegree.wisconsin.edu/)
-- [BS in Data Science & Applications](https://study.iitm.ac.in/ds/)
-- [MS in Computer Information Systems @ Boston University](https://www.bu.edu/online/programs/graduate-programs/computer-information-systems-masters-degree/)
-- [MS in Business Analytics @ ASU Online](https://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
-- [MS in Applied Data Science @ Syracuse](https://ischool.syr.edu/academics/applied-data-science-masters-degree/)
-- [M.S. Management & Data Science @ Leuphana](https://www.leuphana.de/en/graduate-school/masters-programmes/management-data-science.html)
-- [Master of Data Science @ Melbourne University](https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science/#overview)
-- [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=902)
-- [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
-- [Master of Data Science @ Illinois Institute of Technology](https://www.iit.edu/academics/programs/data-science-mas)
-- [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science-online)
-- [Master Data Science and Artificial Intelligence @ Eindhoven University of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/)
-- [Master's Degree in Data Science and Computer Engineering @ University of Granada](https://masteres.ugr.es/datcom/)
-
 ## The Data Science Toolbox
-**[`^        back to top        ^`](#awesome-data-science)**
 
 This section is a collection of packages, tools, algorithms, and other useful items in the data science world.
 
 ### Algorithms
-**[`^        back to top        ^`](#awesome-data-science)**
 
 These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
 
@@ -333,7 +290,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [ML System Designs)](https://www.evidentlyai.com/ml-system-design)
 
 ### General Machine Learning Packages
-**[`^        back to top        ^`](#awesome-data-science)**
 
 * [scikit-learn](https://scikit-learn.org/)
 * [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn)
@@ -424,7 +380,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [Talos](https://github.com/autonomio/talos)
 
 #### Visualization Tools
-**[`^        back to top        ^`](#awesome-data-science)**
 
 - [altair](https://altair-viz.github.io/)
 - [addepar](https://opensource.addepar.com/ember-charts/#/overview)
@@ -470,7 +425,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Dash](https://plotly.com/dash/)
 
 ### Miscellaneous Tools
-**[`^        back to top        ^`](#awesome-data-science)**
 
 | Link | Description |
 | --- | --- |
@@ -593,12 +547,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Literature and Media
-**[`^        back to top        ^`](#awesome-data-science)**
 
 This section includes some additional reading material, channels to watch, and talks to listen to.
 
 ### Books
-**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Data Science From Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python-dp-1492041130/dp/1492041130/ref=dp_ob_title_bk)
 - [Artificial Intelligence with Python - Tutorialspoint](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_tutorial.pdf)
@@ -684,7 +636,6 @@ This section includes some additional reading material, channels to watch, and t
 - [Data for All](https://www.manning.com/books/data-for-all?utm_source=mikrobusiness&utm_medium=affiliate)
 
 ### Journals, Publications and Magazines
-**[`^        back to top        ^`](#awesome-data-science)**
 
 - [ICML](https://icml.cc/2015/) - International Conference on Machine Learning
 - [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - The Genetic and Evolutionary Computation Conference (GECCO)
@@ -701,14 +652,12 @@ This section includes some additional reading material, channels to watch, and t
 - [all AI news](https://allainews.com/) - The AI/ML/Big Data news aggregator platform
 
 ### Newsletters
-**[`^        back to top        ^`](#awesome-data-science)**
 
 - [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 - [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
 - [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
 
 ### Bloggers
-**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Wes McKinney](https://wesmckinney.com/archives.html) - Wes McKinney Archives.
 - [Matthew Russell](https://miningthesocialweb.com/) - Mining The Social Web.
@@ -800,7 +749,6 @@ This section includes some additional reading material, channels to watch, and t
 - [Akhil Soni](https://akhilworld.hashnode.dev/) - ML, DL and Data Science 
 
 ### Presentations
-**[`^        back to top        ^`](#awesome-data-science)**
 
 - [How to Become a Data Scientist](https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
 - [Introduction to Data Science](https://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
@@ -814,7 +762,6 @@ This section includes some additional reading material, channels to watch, and t
 - [Full-Stack Data Scientist](https://www.slideshare.net/AlexeyGrigorev/fullstack-data-scientist)
 
 ### Podcasts
-**[`^        back to top        ^`](#awesome-data-science)**
 
 - [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
 - [AI Today](https://www.cognilytica.com/aitoday/)
@@ -846,7 +793,6 @@ This section includes some additional reading material, channels to watch, and t
 - [The Analytics Engineering Podcast](https://roundup.getdbt.com/s/the-analytics-engineering-podcast)
 
 ### YouTube Videos & Channels
-**[`^        back to top        ^`](#awesome-data-science)**
 
 - [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
 - [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
@@ -880,119 +826,9 @@ This section includes some additional reading material, channels to watch, and t
 - [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK)
 
 ## Socialize
-**[`^        back to top        ^`](#awesome-data-science)**
 
-Below are some Social Media links. Connect with other data scientists!
-
-- [Facebook Accounts](#facebook-accounts)
-- [Twitter Accounts](#twitter-accounts)
-- [Telegram Channels](#telegram-channels)
-- [Slack Communities](#slack-communities)
-- [GitHub Groups](#github-groups)
-- [Data Science Competitions](#data-science-competitions)
-
-
-### Facebook Accounts
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [Data](https://www.facebook.com/data)
-- [Big Data Scientist](https://www.facebook.com/Bigdatascientist)
-- [Data Science Day](https://www.facebook.com/datascienceday/)
-- [Data Science Academy](https://www.facebook.com/nycdatascience)
-- [Facebook Data Science Page](https://www.facebook.com/pages/Data-science/431299473579193?ref=br_rs)
-- [Data Science London](https://www.facebook.com/pages/Data-Science-London/226174337471513)
-- [Data Science Technology and Corporation](https://www.facebook.com/DataScienceTechnologyCorporation?ref=br_rs)
-- [Data Science - Closed Group](https://www.facebook.com/groups/1394010454157077/?ref=br_rs)
-- [Center for Data Science](https://www.facebook.com/centerdatasciences?ref=br_rs)
-- [Big data hadoop NOSQL Hive Hbase](https://www.facebook.com/groups/bigdatahadoop/)
-- [Analytics, Data Mining, Predictive Modeling, Artificial Intelligence](https://www.facebook.com/groups/data.analytics/)
-- [Big Data Analytics using R](https://www.facebook.com/groups/434352233255448/)
-- [Big Data Analytics with R and Hadoop](https://www.facebook.com/groups/rhadoop/)
-- [Big Data Learnings](https://www.facebook.com/groups/bigdatalearnings/)
-- [Big Data, Data Science, Data Mining & Statistics](https://www.facebook.com/groups/bigdatastatistics/)
-- [BigData/Hadoop Expert](https://www.facebook.com/groups/BigDataExpert/)
-- [Data Mining / Machine Learning / AI](https://www.facebook.com/groups/machinelearningforum/)
-- [Data Mining/Big Data - Social Network Ana](https://www.facebook.com/groups/dataminingsocialnetworks/)
-- [Vademecum of Practical Data Science](https://www.facebook.com/datasciencevademecum)
-- [Veri Bilimi Istanbul](https://www.facebook.com/groups/veribilimiistanbul/)
-- [The Data Science Blog](https://www.facebook.com/theDataScienceBlog/)
-
-
-### Twitter Accounts
-**[`^        back to top        ^`](#awesome-data-science)**
-
-| Twitter | Description |
-| --- | --- |
-| [Big Data Combine](https://twitter.com/BigDataCombine) | Rapid-fire, live tryouts for data scientists seeking to monetize their models as trading strategies |
-| Big Data Mania | Data Viz Wiz, Data Journalist, Growth Hacker, Author of Data Science for Dummies (2015) |
-| [Big Data Science](https://twitter.com/analyticbridge) | Big Data, Data Science, Predictive Modeling, Business Analytics, Hadoop, Decision and Operations Research. |
-| Charlie Greenbacker | Director of Data Science at @ExploreAltamira |
-| [Chris Said](https://twitter.com/Chris_Said) | Data scientist at Twitter |
-| [Clare Corthell](https://twitter.com/clarecorthell) | Dev, Design, Data Science @mattermark #hackerei |
-| [DADI Charles-Abner](https://twitter.com/DadiCharles) | #datascientist @Ekimetrics. , #machinelearning #dataviz #DynamicCharts #Hadoop #R #Python #NLP #Bitcoin #dataenthousiast |
-| [Data Science Central](https://twitter.com/DataScienceCtrl) | Data Science Central is the industry's single resource for Big Data practitioners. |
-| [Data Science London](https://twitter.com/ds_ldn)  | Data Science. Big Data. Data Hacks. Data Junkies. Data Startups. Open Data |
-| [Data Science Renee](https://twitter.com/BecomingDataSci) | Documenting my path from SQL Data Analyst pursuing an Engineering Master's Degree to Data Scientist |
-| [Data Science Report](https://twitter.com/TedOBrien93) | Mission is to help guide & advance careers in Data Science & Analytics |
-| [Data Science Tips](https://twitter.com/datasciencetips) | Tips and Tricks for Data Scientists around the world! #datascience #bigdata |
-| [Data Vizzard](https://twitter.com/DataVisualizati) | DataViz, Security, Military |
-| [DataScienceX](https://twitter.com/DataScienceX) |  |
-| deeplearning4j | |
-| [DJ Patil](https://twitter.com/dpatil) | White House Data Chief, VP @ RelateIQ. |
-| [Domino Data Lab](https://twitter.com/DominoDataLab) | |
-| [Drew Conway](https://twitter.com/drewconway) | Data nerd, hacker, student of conflict. |
-| Emilio Ferrara | #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv |
-| [Erin Bartolo](https://twitter.com/erinbartolo) | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
-| [Greg Reda](https://twitter.com/gjreda)  | Working @ _GrubHub_ about data and pandas |
-| [Gregory Piatetsky](https://twitter.com/kdnuggets) |  KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher. |
-| [Hadley Wickham](https://twitter.com/hadleywickham) |  Chief Scientist at RStudio, and an Adjunct Professor of Statistics at the University of Auckland, Stanford University, and Rice University. |
-| [Hakan Kardas](https://twitter.com/hakan_kardes) | Data Scientist |
-| [Hilary Mason](https://twitter.com/hmason) | Data Scientist in Residence at @accel. |
-| [Jeff Hammerbacher](https://twitter.com/hackingdata)  | ReTweeting about data science |
-| [John Myles White](https://twitter.com/johnmyleswhite)  | Scientist at Facebook and Julia developer. Author of Machine Learning for Hackers and Bandit Algorithms for Website Optimization. Tweets reflect my views only. |
-| [Juan Miguel Lavista](https://twitter.com/BDataScientist) | Principal Data Scientist @ Microsoft Data Science Team |
-| [Julia Evans](https://twitter.com/b0rk) | Hacker - Pandas - Data Analyze |
-| [Kenneth Cukier](https://twitter.com/kncukier) | The Economist's Data Editor and co-author of Big Data (http://www.big-data-book.com/). |
-| Kevin Davenport | Organizer of https://www.meetup.com/San-Diego-Data-Science-R-Users-Group/ |
-| [Kevin Markham](https://twitter.com/justmarkham) | Data science instructor, and founder of [Data School](https://www.dataschool.io/) |
-| [Kim Rees](https://twitter.com/krees) | Interactive data visualization and tools. Data flaneur. |
-| [Kirk Borne](https://twitter.com/KirkDBorne) | DataScientist, PhD Astrophysicist, Top #BigData Influencer. |
-| Linda Regber | Data storyteller, visualizations. |
-| [Luis Rei](https://twitter.com/lmrei) | PhD Student. Programming, Mobile, Web. Artificial Intelligence, Intelligent Robotics Machine Learning, Data Mining, Natural Language Processing, Data Science. |
-| Mark Stevenson | Data Analytics Recruitment Specialist at Salt (@SaltJobs)  Analytics - Insight - Big Data - Data science |
-| [Matt Harrison](https://twitter.com/__mharrison__) | Opinions of full-stack Python guy, author, instructor, currently playing Data Scientist. Occasional fathering, husbanding, organic gardening. |
-| [Matthew Russell](https://twitter.com/ptwobrussell) | Mining the Social Web. |
-| [Mert Nuhoğlu](https://twitter.com/mertnuhoglu)  | Data Scientist at BizQualify, Developer |
-| [Monica Rogati](https://twitter.com/mrogati) | Data @ Jawbone. Turned data into stories & products at LinkedIn. Text mining, applied machine learning, recommender systems. Ex-gamer, ex-machine coder; namer. |
-| [Noah Iliinsky](https://twitter.com/noahi) | Visualization & interaction designer. Practical cyclist. Author of vis books: https://www.oreilly.com/pub/au/4419 |
-| [Paul Miller](https://twitter.com/PaulMiller) | Cloud Computing/ Big Data/ Open Data Analyst & Consultant. Writer, Speaker & Moderator. Gigaom Research Analyst. |
-| [Peter Skomoroch](https://twitter.com/peteskomoroch) | Creating intelligent systems to automate tasks & improve decisions. Entrepreneur, ex-Principal Data Scientist @LinkedIn. Machine Learning, ProductRei, Networks |
-| [Prash Chan](https://twitter.com/MDMGeek) | Solution Architect @ IBM, Master Data Management, Data Quality & Data Governance Blogger. Data Science, Hadoop, Big Data & Cloud. |
-| [Quora Data Science](https://twitter.com/q_datascience)  | Quora's data science topic |
-| [R-Bloggers](https://twitter.com/Rbloggers) | Tweet blog posts from the R blogosphere, data science conferences, and (!) open jobs for data scientists. |
-| [Rand Hindi](https://twitter.com/randhindi) |  |
-| [Randy Olson](https://twitter.com/randal_olson) | Computer scientist researching artificial intelligence. Data tinkerer. Community leader for @DataIsBeautiful. #OpenScience advocate. |
-| [Recep Erol](https://twitter.com/EROLRecep) | Data Science geek @ UALR |
-| [Ryan Orban](https://twitter.com/ryanorban) | Data scientist, genetic origamist, hardware aficionado |
-| [Sean J. Taylor](https://twitter.com/seanjtaylor) | Social Scientist. Hacker. Facebook Data Science Team. Keywords: Experiments, Causal Inference, Statistics, Machine Learning, Economics. |
-| [Silvia K. Spiva](https://twitter.com/silviakspiva) | #DataScience at Cisco |
-| [Harsh B. Gupta](https://twitter.com/harshbg) | Data Scientist at BBVA Compass |
-| [Spencer Nelson](https://twitter.com/spenczar_n) | Data nerd |
-| [Talha Oz](https://twitter.com/tozCSS) | Enjoys ABM, SNA, DM, ML, NLP, HI, Python, Java. Top percentile Kaggler/data scientist |
-| [Tasos Skarlatidis](https://twitter.com/anskarl) | Complex Event Processing, Big Data, Artificial Intelligence and Machine Learning. Passionate about programming and open-source. |
-| [Terry Timko](https://twitter.com/Terry_Timko) | InfoGov; Bigdata; Data as a Service; Data Science; Open, Social & Business Data Convergence |
-| [Tony Baer](https://twitter.com/TonyBaer) | IT analyst with Ovum covering Big Data & data management with some systems engineering thrown in. |
-| [Tony Ojeda](https://twitter.com/tonyojeda3) | Data Scientist , Author , Entrepreneur. Co-founder @DataCommunityDC. Founder @DistrictDataLab. #DataScience #BigData #DataDC |
-| [Vamshi Ambati](https://twitter.com/vambati) | Data Science @ PayPal. #NLP, #machinelearning; PhD, Carnegie Mellon alumni (Blog: https://allthingsds.wordpress.com ) |
-| [Wes McKinney](https://twitter.com/wesmckinn) | Pandas (Python Data Analysis library). |
-| [WileyEd](https://twitter.com/WileyEd) | Senior Manager - @Seagate Big Data Analytics @McKinsey Alum #BigData + #Analytics Evangelist #Hadoop, #Cloud, #Digital, & #R Enthusiast |
-| [WNYC Data News Team](https://twitter.com/datanews) | The data news crew at @WNYC. Practicing data-driven journalism, making it visual, and showing our work. |
-| [Alexey Grigorev](https://twitter.com/Al_Grigor) | Data science author |
-| [İlker Arslan](https://twitter.com/ilkerarslan_35) | Data science author. Shares mostly about Julia programming |
-| [INEVITABLE](https://twitter.com/WeAreInevitable) | AI & Data Science Start-up Company based in England, UK |
 
 ### Telegram Channels
-**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Open Data Science](https://t.me/opendatascience) – First Telegram Data Science channel. Covering all technical and popular staff about anything related to Data Science: AI, Big Data, Machine Learning, Statistics, general Math and the applications of former.
 - [Loss function porn](https://t.me/loss_function_porn) — Beautiful posts on DS/ML theme with video or graphic visualization.
@@ -1000,7 +836,6 @@ Below are some Social Media links. Connect with other data scientists!
 
 
 ### Slack Communities
-[top](#awesome-data-science)
 
 - [DataTalks.Club](https://datatalks.club)
 - [Women Who Code - Data Science](https://www.womenwhocode.com/datascience)
@@ -1026,7 +861,6 @@ Some data mining competition platforms
 
 
 ### Infographics
-**[`^        back to top        ^`](#awesome-data-science)**
 
 | Preview                                                                                                                                                                                                                                     | Description                                                                                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1104,13 +938,6 @@ Some data mining competition platforms
 - [IBB Open Portal](https://data.ibb.gov.tr/en/)
 - [The Humanitarian Data Exchange](https://data.humdata.org/)
 
-### Comics
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
-- [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
-- [Data Science Cartoons](https://www.cartoonstock.com/directory/d/data_science.asp)
-- [Data Science: The XKCD Edition](https://davidlindelof.com/data-science-the-xkcd-edition/)
 
 ## Other Awesome Lists
 
@@ -1148,8 +975,6 @@ Some data mining competition platforms
 - [Top 100+ Machine Learning Interview Questions (Beginner to Advanced)](https://www.appliedaicourse.com/blog/machine-learning-interview-questions/)
 
 
-### Hobby
-- [Awesome Music Production](https://github.com/ad-si/awesome-music-production)
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YL0RV0E5XZ"></script>
